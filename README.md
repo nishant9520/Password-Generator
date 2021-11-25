@@ -1,2 +1,6 @@
 # Password-Generator
-html, CSS, JavaScript
+In Project Used :
+#html, 
+#CSS, 
+#JavaScript
+
